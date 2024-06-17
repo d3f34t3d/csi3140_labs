@@ -1,0 +1,102 @@
+[33mcommit 21ff5dda3b9c2c97138ceb56cbcbe38f5bf2e0fc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mlab04[m[33m)[m
+Merge: 261e20d 1b7198f
+Author: “Fay <faylovepink@gmail.com>
+Date:   Sun Jun 9 19:45:13 2024 -0400
+
+    Merge remote-tracking branch 'origin/lab04' into lab04
+
+[33mcommit 261e20de76befc2e8da8b7d33be42daf55ec6480[m
+Author: “Fay <faylovepink@gmail.com>
+Date:   Sun Jun 9 19:44:26 2024 -0400
+
+    Add contents of public directory to lab04 branch
+
+[33mcommit 1b7198f3e9d6a320d0528701289d123f43bb886b[m
+Author: “Fay <faylovepink@gmail.com>
+Date:   Sun Jun 9 19:39:02 2024 -0400
+
+    lab 5
+
+[33mcommit f399a19522a370003d82856ba2a9cf52540ab264[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: “Fay <faylovepink@gmail.com>
+Date:   Sun Jun 9 19:38:33 2024 -0400
+
+    committing previous labs
+
+[33mcommit 51c0f72d4e55a321a31637912c097f85594846d8[m
+Merge: a47ff63 06428b3
+Author: “Fay <faylovepink@gmail.com>
+Date:   Mon Jun 3 10:04:27 2024 -0400
+
+    Merge remote-tracking branch 'origin/main' into lab04
+
+[33mcommit a47ff63a34d5a854d3ede8653b684fc36ff1f782[m
+Author: “Fay <faylovepink@gmail.com>
+Date:   Mon Jun 3 09:58:05 2024 -0400
+
+    lab 4
+
+[33mcommit 9520e04eeb95b017a7b57f1f4cf48ac9d603aa9c[m[33m ([m[1;31morigin/f-lab03[m[33m)[m
+Author: “Fay <faylovepink@gmail.com>
+Date:   Mon May 27 14:03:28 2024 -0400
+
+    Ignore csi3140_labs directory
+
+[33mcommit ee36393b39cfca4807086f8d655a9677e35573b7[m
+Author: “Fay <faylovepink@gmail.com>
+Date:   Mon May 27 14:00:10 2024 -0400
+
+    Implement createGame function
+
+[33mcommit 513e8a4d058e3ad2e4acdaad085cfa19e6951886[m
+Author: “Fay <faylovepink@gmail.com>
+Date:   Mon May 27 13:59:30 2024 -0400
+
+    Initial commit with empty pacman.html
+
+[33mcommit 06428b35fbda5739eb6e9404524d98b402b75b34[m
+Author: “Fay <faylovepink@gmail.com>
+Date:   Mon May 13 11:17:00 2024 -0400
+
+    Add resume.html and styles.css
+
+[33mcommit ec02885a15762fee242e8bfdef37172783ef3ba1[m
+Author: d3f34t3d <147369970+d3f34t3d@users.noreply.github.com>
+Date:   Mon May 6 14:58:52 2024 -0400
+
+    F lab01 (#2)
+    
+    * changed language
+    
+    * changed language
+    
+    ---------
+    
+    Co-authored-by: “Fay <faylovepink@gmail.com>
+
+[33mcommit 1106b82c09ee4cc0004a660a6cb38e2d874a20a9[m
+Merge: f9255d4 6ea758b
+Author: d3f34t3d <147369970+d3f34t3d@users.noreply.github.com>
+Date:   Mon May 6 14:52:25 2024 -0400
+
+    Merge pull request #1 from d3f34t3d/f-lab01
+    
+    Translate to French
+
+[33mcommit 6ea758ba3070a67d2ce1820de9109a53ba9db27b[m
+Author: enlightened <aydincodes@gmail.com>
+Date:   Mon May 6 14:46:51 2024 -0400
+
+    Translate to French
+
+[33mcommit f9255d4cf99e2db669efdb2bd3633f6f610be99b[m
+Author: enlightened <aydincodes@gmail.com>
+Date:   Mon May 6 14:40:48 2024 -0400
+
+    Added index.html
+
+[33mcommit d29b414ed41597e4cc6d9b66523309fb702449e2[m
+Author: enlightened <aydincodes@gmail.com>
+Date:   Mon May 6 14:38:06 2024 -0400
+
+    Init commit
