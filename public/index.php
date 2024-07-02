@@ -2,26 +2,27 @@
 require_once('_config.php');
 ?>
 
-<div id="output">--</div>
-<button id="version">Version</button>
+<html>
+  <head>
+    <script type="text/javascript" src="/assets/jquery-3.6.0.min.js"></script>
+  </head>
+  <body>
 
-<script>
-const output = document.getElementById("output");
-const version = document.getElementById("version");
-version.onclick = function(e) {
+    <div id="die1">--</div>
+    <button id="roll">Roll</button>
 
-  const xmlhttp = new XMLHttpRequest();
+    <script>
+      const die1 = document.getElementById("die1");
+      const roll = document.getElementById("roll");
+      roll.onclick = async function() {
+        let answer = $.ajax({
+          type: "GET",
+          url: "api.php?action=roll"
+        }).then(function(data) {
+          die1.innerHTML = data.value;
+        });
+      };
+    </script>
 
-  xmlhttp.onreadystatechange = function() {
-    if (xmlhttp.readyState == XMLHttpRequest.DONE) {
-      if (xmlhttp.status == 200) {
-        output.innerHTML = xmlhttp.responseText;
-      }
-    }
-  };
-
-  xmlhttp.open("GET", "/api.php", true);
-  xmlhttp.send();
-}
-</script>
-
+  </body>
+</html>
